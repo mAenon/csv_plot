@@ -1,2 +1,2 @@
 # hasc-plot
-csv_plot for hasc data in my aboratory
+csv_plot for hasc data in my laboratory
