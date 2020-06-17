@@ -1,2 +1,3 @@
-# hasc-plot
-csv_plot for hasc data in my raboratory
+# csv_plot
+using pandas and numpy
+plot csv data
